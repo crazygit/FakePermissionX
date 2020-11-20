@@ -1,0 +1,3 @@
+include ':fakepermissionx'
+include ':app'
+rootProject.name = "FakePermissionX"

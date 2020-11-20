@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FakePermissionX</string>
+    <string name="make_call">Make call</string>
+</resources>
